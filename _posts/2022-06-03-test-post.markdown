@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome"
+date:   2022-06-03 11:27:18 -0400
+categories:
+---
+Hi! I'm just starting to figure this stuff out. We'll see if I actually want to
+blog seriously.
